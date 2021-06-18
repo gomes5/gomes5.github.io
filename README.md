@@ -72,7 +72,7 @@ and open the template in the editor.
             mas a alegria com certeza não é pouca, então mais uma vez, Parabeeeeennnns!!!!
         </p>
         <p>Até cantaria mas não sei a letra completa então ficamos mesmo aqui.</p>
-        <p>Brincadeira ksksksksk...</p>
+        <p>Brincadeira ksksksksk...</p> 
         <h2>Momento do parabéns...!</h2>
         <pre id="musica">
              Parabéns pra você, 
